@@ -1,7 +1,7 @@
 import { InfoOutlined, PlayArrow } from "@material-ui/icons";
 import "./featured.scss";
-import movieimg from "../../images/last-duel.jpeg";
-import moviebg from "../../images/last-duel-bg.jpeg";
+import movieimg from "../../images/dark-knight-title.jpeg";
+import moviebg from "../../images/dark-knight-bg.jpg";
 
 function Featured(type) {
   return (
