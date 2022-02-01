@@ -23,12 +23,15 @@ function ListItem(index) {
       {isHovered && (
         <>
           <iframe
+            id="ytplayer"
             width="100%"
             height="140px"
-            src="https://www.youtube.com/embed/BIhNsAtPbPI?autoplay=1"
+            type="text/html"
+            src="https://www.youtube.com/embed/BIhNsAtPbPI?autoplay=1&controls=0&modestbranding=1&fs=0&loop=1&rel=0&iv_load_policy=3"
             frameborder="0"
+            allowfullscreen
             allow="autoplay;"
-          />
+          ></iframe>
 
           <div className="iteminfo">
             <div className="icons">
