@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/netflix-clone-frontend/static/css/main.e9f35953.chunk.css",
-    "main.js": "/netflix-clone-frontend/static/js/main.9a0fb402.chunk.js",
-    "main.js.map": "/netflix-clone-frontend/static/js/main.9a0fb402.chunk.js.map",
-    "runtime-main.js": "/netflix-clone-frontend/static/js/runtime-main.fe4540d9.js",
-    "runtime-main.js.map": "/netflix-clone-frontend/static/js/runtime-main.fe4540d9.js.map",
-    "static/js/2.99feff6f.chunk.js": "/netflix-clone-frontend/static/js/2.99feff6f.chunk.js",
-    "static/js/2.99feff6f.chunk.js.map": "/netflix-clone-frontend/static/js/2.99feff6f.chunk.js.map",
-    "index.html": "/netflix-clone-frontend/index.html",
-    "static/css/main.e9f35953.chunk.css.map": "/netflix-clone-frontend/static/css/main.e9f35953.chunk.css.map",
-    "static/js/2.99feff6f.chunk.js.LICENSE.txt": "/netflix-clone-frontend/static/js/2.99feff6f.chunk.js.LICENSE.txt",
-    "static/media/register.scss": "/netflix-clone-frontend/static/media/bg.247f90de.png",
-    "static/media/bond.d966058c.jpg": "/netflix-clone-frontend/static/media/bond.d966058c.jpg",
-    "static/media/dark-knight-bg.7780cce6.jpg": "/netflix-clone-frontend/static/media/dark-knight-bg.7780cce6.jpg",
-    "static/media/icon.aba9a470.png": "/netflix-clone-frontend/static/media/icon.aba9a470.png",
-    "static/media/profile.b36331ae.jpg": "/netflix-clone-frontend/static/media/profile.b36331ae.jpg"
+    "main.css": "/static/css/main.b19ade9b.chunk.css",
+    "main.js": "/static/js/main.9a0fb402.chunk.js",
+    "main.js.map": "/static/js/main.9a0fb402.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
+    "static/js/2.99feff6f.chunk.js": "/static/js/2.99feff6f.chunk.js",
+    "static/js/2.99feff6f.chunk.js.map": "/static/js/2.99feff6f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b19ade9b.chunk.css.map": "/static/css/main.b19ade9b.chunk.css.map",
+    "static/js/2.99feff6f.chunk.js.LICENSE.txt": "/static/js/2.99feff6f.chunk.js.LICENSE.txt",
+    "static/media/register.scss": "/static/media/bg.247f90de.png",
+    "static/media/bond.d966058c.jpg": "/static/media/bond.d966058c.jpg",
+    "static/media/dark-knight-bg.7780cce6.jpg": "/static/media/dark-knight-bg.7780cce6.jpg",
+    "static/media/icon.aba9a470.png": "/static/media/icon.aba9a470.png",
+    "static/media/profile.b36331ae.jpg": "/static/media/profile.b36331ae.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe4540d9.js",
+    "static/js/runtime-main.9412c5a0.js",
     "static/js/2.99feff6f.chunk.js",
-    "static/css/main.e9f35953.chunk.css",
+    "static/css/main.b19ade9b.chunk.css",
     "static/js/main.9a0fb402.chunk.js"
   ]
 }
